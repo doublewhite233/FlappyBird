@@ -1,0 +1,17 @@
+E:\program\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+E:\program\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+E:\program\FlappyBird\FlappyBird\obj\Debug\ResolveAssemblyReference.cache
+E:\program\FlappyBird\FlappyBird\obj\Debug\FlappyBird.FormMain.resources
+E:\program\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+E:\program\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.Cache
+E:\program\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+E:\program\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+E:\program\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Skin.resources
+E:\program\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Score.resources
+E:\program\FlappyBird\FlappyBird\obj\Debug\FlappyBird.ScoreBoard.resources
+E:\program\FlappyBird\FlappyBird\obj\Debug\FlappyBird.HighestScore.resources
+E:\program\FlappyBird\FlappyBird\bin\Debug\Interop.WMPLib.dll
+E:\program\FlappyBird\FlappyBird\bin\Debug\AxInterop.WMPLib.dll
+E:\program\FlappyBird\FlappyBird\obj\Debug\Interop.WMPLib.dll
+E:\program\FlappyBird\FlappyBird\obj\Debug\AxInterop.WMPLib.dll
+E:\program\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.ResolveComReference.cache
