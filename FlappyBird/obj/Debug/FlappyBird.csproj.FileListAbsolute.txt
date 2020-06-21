@@ -15,3 +15,8 @@ E:\program\FlappyBird\FlappyBird\bin\Debug\AxInterop.WMPLib.dll
 E:\program\FlappyBird\FlappyBird\obj\Debug\Interop.WMPLib.dll
 E:\program\FlappyBird\FlappyBird\obj\Debug\AxInterop.WMPLib.dll
 E:\program\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.ResolveComReference.cache
+E:\FlappyBird\FlappyBird\obj\Debug\Interop.WMPLib.dll
+E:\FlappyBird\FlappyBird\obj\Debug\AxInterop.WMPLib.dll
+E:\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.ResolveComReference.cache
+E:\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+E:\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
