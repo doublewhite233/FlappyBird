@@ -9,3 +9,5 @@ C#课程大作业--使用vs2008完成的仿FlappyBird，在基本玩法之上增
 * 随相应系统时间显示游戏背景。
 
 界面截图：
+![image](https://github.com/doublewhite233/FlappyBird/blob/master/images/screenshot1.png)
+![image](https://github.com/doublewhite233/FlappyBird/blob/master/images/screenshot2.png)
